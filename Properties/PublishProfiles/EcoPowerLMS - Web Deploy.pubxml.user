@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALT81RLoiVEiK3tu2A73HBQAAAAACAAAAAAAQZgAAAAEAACAAAAB3PNi7Aw9ZGfoYFFE0a2+I3TZ9l4VjgaAUZ+jaZ+5tTwAAAAAOgAAAAAIAACAAAAAM1bobxkFppA+UFlB4zxvsL+Ts0Lp6xO1jPsthlmw/uoAAAACcsVLnvbs9OE+98PlQZODfJdEKb+t3f9iWmtwzQsykVHHVY0JGORCpsply57+mvQ457qesD9N7qRdCo29jKEq7iDipLmQh+YuVAC9ynFb8Kg+h9A+ZILXJsY5ZkJtv5T0Ynu63bBfi7hLNdUBwtMd6O1WQ9YCYz+dAjtC0P0wcVkAAAAAU35Dl8ea+cQxWtzEvlri1xS2LNqEOm4IIgK6Gqnqen2tZMPNykLGo+uFevWqJHxPm3Oq9caKVy2ZrNjPyIZkP</EncryptedPassword>
+    <History>True|2023-08-25T14:04:27.4722514Z;True|2023-08-24T23:36:13.0611709+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=zaazrecopowersql.database.windows.net,1433%3bInitial Catalog=EcoPowerLMS%3bUser ID=serviceadmin%3bPassword=%40#2024dream!</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
